@@ -1,0 +1,14 @@
+{
+  "name": "webvr",
+  "version": "1.0.0",
+  "description": "Zenva WebVR Trainings",
+  "main": "index.js",
+  "dependencies": {
+    "aframe": "^1.2.0",
+    "http-server": "^0.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {},
+  "author": "",
+  "license": "ISC"
+}
